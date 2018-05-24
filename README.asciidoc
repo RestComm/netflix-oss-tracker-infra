@@ -1,9 +1,6 @@
 
 
-[Try Restcomm Cloud NOW for FREE!](https://www.restcomm.com/sign-up/) Zero download and install required.
-
-
-
+https://www.restcomm.com/sign-up/[Try Restcomm Cloud NOW for FREE!] Zero download and install required.
 
 = Netflix OSS Tracker Deployment
 
