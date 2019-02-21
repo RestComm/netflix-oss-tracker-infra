@@ -4,7 +4,7 @@
   hosts: osstracker
   become: true
   roles:
-    - tersmitten.locales
+    - oefenweb.locales
   tasks:
     - name: Run the equivalent of "apt-get update" as a separate step
       apt:
