@@ -6,4 +6,4 @@
   #version: "v1.0.1"
   name: Bessonov.docker-compose
 
-- name: tersmitten.locales
+- name: oefenweb.locales
