@@ -38,7 +38,8 @@
 - name: Install Docker Compose
   hosts: osstracker
   roles:
-    - Bessonov.docker-compose
+      - role: Bessonov.docker-compose
+        docker_compose_version: latest
 
 - name: Deploy OSSTracker
   hosts: osstracker
